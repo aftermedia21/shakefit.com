@@ -688,6 +688,7 @@ nav ul li.active span{
 /* --------------------------- THREE BOXES SECTION ---------------------------- */
 .three-boxes{
   background: #ffffff;
+  margin-top: 30px;
   padding: 10px 0;
   height: auto;
 }
@@ -3806,3 +3807,99 @@ tr {
   outline: none;
 }
 /*-----------comentarios facebook-------------*/
+
+.bbtn {
+  width: 100%;
+  max-width: 449px;
+}
+
+@media (max-width: 768px) {
+  .video-player {
+    margin-top: 0 !important;
+  }
+}
+
+
+.a-btn {
+      text-decoration: none;
+      -webkit-font-smoothing: antialiased;
+      border: 0; 
+      font: inherit; 
+      vertical-align: baseline;
+
+      color: #2e82bc; 
+      outline: 0; 
+      line-height: 1; 
+      text-align: center; 
+      display: block!important;
+                margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+      border-style: solid; 
+     
+
+      width: 100%; max-width: 800px;
+      padding-top:30px; padding-left: 0!important; padding-right: 0!important; 
+      margin-bottom: 30px; 
+      padding: 22px 44px 30px; border-color: #79BE2D; border-width: 0px; 
+      border-radius: 6px; 
+      background: linear-gradient(to bottom, #79BE2D 0%, #79BE2D 100%); 
+      box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.5); 
+      text-decoration: none!important;
+    }
+    .span-btn {
+      text-decoration: none;
+      -webkit-font-smoothing: antialiased; 
+      text-align: center;
+      margin: auto; 
+      border: auto; 
+      font: inherit;
+      vertical-align: baseline;
+      display: block; 
+      position: relative; 
+      z-index: 1; 
+      padding: 0 25px; 
+      white-space: normal; 
+      font-size: 35px;
+      color: #ffffff; 
+      font-family: Oswald; 
+      font-weight: bold; 
+      text-shadow: #000000 0px 1px 0px;
+      text-decoration: none;
+    }
+    .span-btn2 {
+      -webkit-font-smoothing: antialiased; 
+      text-align: center;
+      padding: 0; border: 0;
+      font: inherit; 
+      vertical-align: baseline; 
+      display: block; 
+      position: relative;
+      z-index: 1; 
+      margin: .2em 0 -.5em; 
+      font-size: 19px; 
+      color: #000000; 
+      font-family: helvetica; 
+      font-weight: bold; 
+      font-style: italic;
+  
+    }
+
+    @media (max-width: 768px) {
+  .video-player {
+    width: 100%;
+    background: 0 0;
+  }
+  .video-player iframe {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    margin: auto;
+  }
+  #frame {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    margin: auto;
+  }
+}
