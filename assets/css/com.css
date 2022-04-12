@@ -689,7 +689,7 @@ nav ul li.active span{
 .three-boxes{
   background: #ffffff;
   margin-top: 60px;
-  padding: 20px 0;
+  padding: 5px 0;
   height: auto;
 }
 .three-boxes h2{
@@ -699,13 +699,13 @@ nav ul li.active span{
   margin-top: 40px;
   font-weight: 700;
   font-style: normal;
-  font-family: 'helvetica', sans-serif;
+  font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
   color: #000000;
 }
 .three-boxes h2 + div p{
   font-size: 20px;
-  line-height: 28px;
+  line-height: 29px;
   padding: 0 30px;
   margin-bottom: 50px;
   font-style: normal;
@@ -736,7 +736,7 @@ nav ul li.active span{
 }
 .message-box .heading-holding h5{
   color: #000000;
-  font-size: 26px;
+  font-size: 23px;
   font-family: relation-two, sans-serif;
   font-weight: 700;
   margin: 0 0 0 45px;
